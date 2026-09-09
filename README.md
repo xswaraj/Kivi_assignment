@@ -6,7 +6,7 @@ Kivi is an automated dictation assistant and structuring companion engineered sp
 
 ---
 
-## 📌 Problem Overview
+## Problem Overview
 
 Consultants navigate fast-paced, high-stakes client meetings where critical numerical data, strategic shifts, and immediate action items must be captured accurately. Juggling active listening, client diagnosis, and manual note-taking leads to:
 * **Divided attention** during critical revenue-impacting discussions.
@@ -15,7 +15,7 @@ Consultants navigate fast-paced, high-stakes client meetings where critical nume
 
 ---
 
-## 💡 The Solution
+## The Solution
 
 Kivi operates silently in the background of your desktop environment. With a global keyboard shortcut or voice command, Kivi captures speech and instantly processes it through domain-specific frameworks while maintaining an exact verbatim transcript.
 
@@ -25,7 +25,7 @@ Kivi operates silently in the background of your desktop environment. With a glo
 
 ---
 
-## 🚀 Key Features & UI Architecture
+## Key Features & UI Architecture
 
 ### 1. Output Frameworks & Granular Rules
 Users can toggle individual framework cards (`Active` / `Inactive`) and drill down into sub-rules using expander arrows:
@@ -59,7 +59,7 @@ Users can toggle individual framework cards (`Active` / `Inactive`) and drill do
 
 ---
 
-## 🛠️ Getting Started
+## Getting Started
 
 1. **Launch & Authenticate:** Start Kivi (runs in background on system startup) and sign in using **Continue with Google** or enterprise credentials.
 2. **Set Your Role:** Select your firm role to auto-configure industry-standard terminology and output frameworks.
@@ -74,11 +74,11 @@ Users can toggle individual framework cards (`Active` / `Inactive`) and drill do
 
 ---
 
-## 🖥️ Prototype Link
+## Design & Prototype Resources
 
-Explore the interactive UI, micro-interactions, and setting overlays in Figma:  
-👉 **[View the Kivi Interactive Prototype](https://www.figma.com/proto/aMNzd0IK3ghCQOsBFBRBFM/Kivi_Prototype?node-id=11-143&p=f&t=Sd76HNq2gqWOTquf-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=6%3A110)**
+* **Interactive Prototype:** [Test the Kivi Prototype in Figma](https://www.figma.com/proto/aMNzd0IK3ghCQOsBFBRBFM/Kivi_Prototype?node-id=11-143&p=f&t=Sd76HNq2gqWOTquf-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=6%3A110)
+* **Figma Design Canvas:** [Inspect Frames & UI Components](https://www.figma.com/design/aMNzd0IK3ghCQOsBFBRBFM/Kivi_Prototype?node-id=0-1&p=f&t=0TFgzbqShJbSviPn-0)
 
 ---
 
-*Note: This documentation reflects the current Figma prototype and specification assets, and is subject to evolution during implementation.*
+*Note: This documentation reflects the current Figma design specifications and is subject to evolution during implementation.*
